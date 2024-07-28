@@ -12,3 +12,6 @@ Sept 11
 
 Sept 12
 : Other DP-learning methods: perturbation, ensembling
+
+Sept 13
+: **HW 2 due**{: .label .label-red }
