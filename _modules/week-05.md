@@ -15,4 +15,4 @@ Aug 29
 
 Aug 30
 : **HW 1 due**{: .label .label-red }
-: **HW 2 released**{: .label .label-red }
+: **HW 2 released**{: .label .label-blue }
