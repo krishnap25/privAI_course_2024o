@@ -6,10 +6,10 @@ Oct 21
 : Project Office Hours
 
 Oct 23
-: Watermarking in LLMs
+: Synthetic data & Privacy
 
 Oct 24
-: TBD
+: Watermarking in LLMs
 
 Oct 25
 : **Project midpoint report due**{: .label .label-red }
