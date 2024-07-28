@@ -7,5 +7,3 @@ photo: krishna.png
 meta:
   Office Hours: Every Wednesday 3:30 to 4:30 pm in SSB 204. 
 ---
-
-[Schedule an appointment](#){: .btn .btn-outline }
