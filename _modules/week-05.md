@@ -1,5 +1,5 @@
 ---
-title: Week 5 - Learning with DP
+title: Week 5 - Learning with DP I
 ---
 
 Aug 26
@@ -12,9 +12,7 @@ Aug 28
 
 Aug 29
 : Practical considerations of DP-SGD
-    :
 
 Aug 30
 : **HW 1 due**{: .label .label-red }
-    :
 : **HW 2 released**{: .label .label-red }
