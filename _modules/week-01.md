@@ -1,5 +1,5 @@
 ---
-title: Introduction and Privacy Attacks
+title: Week 1 - Introduction and Privacy Attacks
 ---
 
 Jul 29
