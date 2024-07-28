@@ -9,7 +9,7 @@ Oct 2
 :  Holiday
 
 Oct 3
-: _**Midterm**_ {: .label .label-red }
+: _**Midterm**_{: .label .label-red }
 
 Oct 4
-: **HW3 released** {: .label .label-blue }
+: **HW3 released**{: .label .label-blue }
