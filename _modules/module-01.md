@@ -7,11 +7,11 @@ Jul 29
   : 
 : **HW 1 released**{: .label .label-blue }
 
-Sep 29
-:  Privacy Attacks: Membership Inference
+July 31
+:  Privacy Attacks - Membership Inference
   : 
 
-Sep 30
-: Privacy Attacks: Data Reconstruction
+Aug 1
+: Privacy Attacks - Data Reconstruction
   : 
 
