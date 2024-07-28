@@ -4,7 +4,7 @@ title: Week 2 - Differential Privacy Basics I
 
 Aug 5
 : **Lab**{: .label .label-purple } PyTorch Review
-  : Additional material - [PyTorch webpage](https://pytorch.org/tutorials/beginner/introyt) 
+  : [Additional tutorials](https://pytorch.org/tutorials/beginner/introyt) 
 
 Aug 7
 : Introduction to differential privacy (DP)
