@@ -2,16 +2,16 @@
 title: Introduction and Privacy Attacks
 ---
 
-Jul 29
+Jul 29 (Mon)
 : Introduction & Logistics
   : 
 : **HW 1 released**{: .label .label-blue }
 
-July 31
+Jul 31 (Wed)
 :  Privacy Attacks - Membership Inference
   : 
 
-Aug 1
+Aug 1 (Thu)
 : Privacy Attacks - Data Reconstruction
   : 
 
