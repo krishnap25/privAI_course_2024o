@@ -1,5 +1,5 @@
 ---
-title: Learning with DP
+title: Week 5 - Learning with DP
 ---
 
 Aug 26
@@ -18,26 +18,3 @@ Aug 30
 : **HW 1 due**{: .label .label-red }
     :
 : **HW 2 released**{: .label .label-red }
-
-Sept 2
-: **Lab**{: .label .label-purple } DP-SGD
-    : 
-
-Sept 4
-: Theoretical Analysis of DP-SGD
-
-Sept 5
-: Private learning with Correlated Noise - part 1
-    :
-
-
-Sept 9
-: **Lab**{: .label .label-purple } Correlated noise mechanisms
-    : 
-
-
-Sept 11
-: Private learning with Correlated Noise - part 2
-
-Sept 12
-: Other DP-learning methods: perturbation, ensembling
