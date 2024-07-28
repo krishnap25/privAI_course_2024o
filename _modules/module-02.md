@@ -26,6 +26,9 @@ Aug 12
 Aug 14
 : Concentration of Measure
 
+Aug 15
+: No class (Independence Day)
+
 Aug 16
 : **HW 1 released**{: .label .label-blue }
     :
