@@ -1,5 +1,5 @@
 ---
-title: Week 3 - Differential Privacy Basics
+title: Week 3 - Differential Privacy Basics II
 ---
 
 Aug 12
@@ -10,6 +10,5 @@ Aug 14
 
 Aug 15
 : No class (Independence Day)
-    :   -
 : **HW 1 released**{: .label .label-blue }
 
