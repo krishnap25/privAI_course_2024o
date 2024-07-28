@@ -3,8 +3,7 @@ title: Differential Privacy - Basics
 ---
 
 Aug 5
-: **Lab**{: .label .label-purple }
-    PyTorch Review
+: **Lab**{: .label .label-purple } PyTorch Review
   : Additional material - [PyTorch webpage](https://pytorch.org/tutorials/beginner/introyt) 
 
 Aug 7
