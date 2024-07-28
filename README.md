@@ -1,6 +1,6 @@
 ---
 layout: home
-title: DA 5001 (DA 6400): Privacy in AI (July-Nov 2024)
+title: DA 5001 (DA 6400) - Privacy in AI (July-Nov 2024)
 nav_exclude: true
 permalink: /:path/
 seo:
