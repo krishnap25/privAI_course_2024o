@@ -12,4 +12,4 @@ Oct 24
 : TBD
 
 Oct 25
-: **Project midpoint report due** {: .label .label-red }
+: **Project midpoint report due**{: .label .label-red }
