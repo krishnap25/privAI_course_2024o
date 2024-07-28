@@ -9,4 +9,4 @@ Oct 2
 :  Holiday
 
 Oct 3
-: _**Midterm**_
+: _**Midterm**_ {: .label .label-red }
