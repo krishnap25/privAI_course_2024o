@@ -5,6 +5,7 @@ title: Week 8 - Protecting against Data Reconstruction
 
 Sept 16
 : Holiday
+: **Call for Projects Released**{: .label .label-blue }
 
 
 Sept 18
