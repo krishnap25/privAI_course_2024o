@@ -31,7 +31,7 @@ schedule:
         start: 2:00 PM
         end: 3:30 PM
         location: CRC 205
-      - name: Office Hours - Krishna
+      - name: Office Hours
         start: 3:30 PM
         end: 4:30 PM
         location: SSB 204
