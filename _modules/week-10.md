@@ -10,3 +10,6 @@ Oct 2
 
 Oct 3
 : _**Midterm**_ {: .label .label-red }
+
+Oct 4
+: **HW3 released** {: .label .label-blue }
