@@ -1,5 +1,5 @@
 ---
-title: Week 2 - Differential Privacy Basics
+title: Week 2 - Differential Privacy Basics I
 ---
 
 Aug 5
@@ -7,7 +7,7 @@ Aug 5
   : Additional material - [PyTorch webpage](https://pytorch.org/tutorials/beginner/introyt) 
 
 Aug 7
-: Differential Privacy - Basic mechanisms
+: Introduction to differential privacy (DP)
   : Reading - Sec. 1.4-1.6 of [Vadhan](https://privacytools.seas.harvard.edu/files/privacytools/files/complexityprivacy_1.pdf)
 
 Aug 8
