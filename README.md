@@ -57,7 +57,7 @@ The other 3 homeworks are worth 10% each.
 ### Instructions
 - Please submit your solutions via Gradescope.
 - The assignments should be typeset in LaTeX (you may use [this LaTeX template](https://www.overleaf.com/read/rfpgcwqbtdcg#cb8bba)). Please do not submit handwritten notes.
-- For the mathemtatical problems, please be succinct and justify all the steps. Proofs are required to be fully rigorous and justified.
+- For the mathematical problems, please be succinct and justify all the steps. Proofs are required to be fully rigorous and justified.
 - You have a total budget of 3 late days for homeworks (and scribing), no questions asked. A submission a few minutes after the deadline will also count as a full late day. Further delays after exhausting the late day budget will result in a zero grade for that homework.
 - No late days will be allowed for project-related deadlines.
 - For coding assignments, please submit executable Jupyter notebooks together with a PDF export to gradescope.
