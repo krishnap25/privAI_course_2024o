@@ -5,7 +5,6 @@ title: Week 7 - Learning with DP
 
 Sept 9
 : **Lab**{: .label .label-purple } Correlated noise mechanisms
-    : 
 
 
 Sept 11
