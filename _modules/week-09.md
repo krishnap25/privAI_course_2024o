@@ -11,3 +11,6 @@ Sept 25
 
 Sept 26
 : **Lab**{: .label .label-purple } Data Reconstruction Mini-project - part 3
+
+Sept 27
+: **Project Proposals due**{: .label .label-red }
