@@ -6,7 +6,7 @@ Oct 21
 : Project Office Hours
 
 Oct 23
-: Synthetic data & Privacy
+: Synthetic data generation
 
 Oct 24
 : Watermarking in LLMs
