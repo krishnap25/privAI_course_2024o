@@ -9,13 +9,11 @@ Jul 29
 
 Jul 31
 : Privacy Attacks - Membership Inference
-    : Required - [Shokri et al. (2017)](https://arxiv.org/pdf/1610.05820), [Carlini et al. (2021)](https://arxiv.org/pdf/2112.03570)
-    : Extra - [Yeom et al. (2018)](https://arxiv.org/pdf/1709.01604), 
+    : Required - [Shokri et al. (2017)](https://arxiv.org/pdf/1610.05820), [Carlini et al. (2021)](https://arxiv.org/pdf/2112.03570)  Extra - [Yeom et al. (2018)](https://arxiv.org/pdf/1709.01604), 
 
 
 Aug 1
 : Privacy Attacks - Data Reconstruction
-  : Required - [Carlini et al. (2021)](https://arxiv.org/pdf/2012.07805)
-  : Extra - [Nasr et al. (2023)](https://arxiv.org/pdf/2311.17035), [Haim et al. (2022)](https://arxiv.org/pdf/2206.07758)
+  : Required - [Carlini et al. (2021)](https://arxiv.org/pdf/2012.07805)   Extra - [Nasr et al. (2023)](https://arxiv.org/pdf/2311.17035), [Haim et al. (2022)](https://arxiv.org/pdf/2206.07758)
 
 
