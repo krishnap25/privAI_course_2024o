@@ -8,7 +8,7 @@ seo:
   name: Privacy in AI
 ---
 
-# DA 5001 (prev. DA 6400): Privacy in AI (Jul-Nov 2024)
+# DA 5001 / DA 6400: Privacy in AI (Jul-Nov 2024)
 
 
 
@@ -17,7 +17,9 @@ seo:
 As AI rapidly advances, so do concerns about data privacy and responsible data usage.
 This course explores these areas with foundational mathematical principles, cutting-edge research, and practical applications.
 We will focus on rigorous mathematical tools (with proofs), algorithm design for practical applications, and implementation.
-Topics include: privacy risks, differential privacy & properties, private learning algorithms,
+
+
+**Topics**: privacy risks, differential privacy & properties, private learning algorithms,
 protecting against data reconstruction. We will also cover a sampling of advanced topics including privacy in distributed and federated learning,
 emerging challenges of privacy and copyright in LLMs and GenAI, federated learning, and unlearning.
 
