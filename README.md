@@ -83,6 +83,16 @@ The course project can be one of the three types:
 The project will require a proposal (due end of September), a midpoint review (due 3rd week of October), a presentation (week of Nov. 4th), and a final report (due around Nov. 14th).
 These details will be annouced in the calendar.
 
+## Resources
+
+The references and reading (including book chapters and papers) for each lecture will be posted on the [Calendar/Syllabus page](/calendar). 
+This will include parts of of the following monographs/textbooks (PDFs available for free online):
+* Dwork & Roth (2014). The Algorithmic Foundations of Differential Privacy. [PDF](https://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf)
+* Vadhan (2017). The Complexity of Differential Privacy. [PDF](https://privacytools.seas.harvard.edu/files/complexityprivacy_1.pdf)
+* Near & Abuah (2021). Programming Differential Privacy. [PDF & Notebooks](https://programming-dp.com/)
+
+<!-- [differentialprivacy.org](https://differentialprivacy.org/resources/) lists several other handy resources.-->
+
 
 ## Honour Code
 
