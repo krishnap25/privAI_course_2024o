@@ -54,6 +54,9 @@ Location: **CRC 205**. Classes will be in Slot J ([weekly schedule](schedule.md)
 We will have 4 homeworks total. HW0, released on the first day of class, is meant to be a review (5% of the grade).
 The other 3 homeworks are worth 10% each.
 
+* [HW0](/resources/hw0.pdf): Released July 29, due August 9th at 11:59 PM.
+
+
 ### Instructions
 - Please submit your solutions via Gradescope.
 - The assignments should be typeset in LaTeX (you may use [this LaTeX template](https://www.overleaf.com/read/rfpgcwqbtdcg#cb8bba)). Please do not submit handwritten notes.

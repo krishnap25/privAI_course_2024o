@@ -5,7 +5,7 @@ title: Week 1 - Introduction and Privacy Attacks
 Jul 29
 : Introduction & Logistics
     :  Required - [Narayanan & Shmatikov (2008)](https://www.cs.utexas.edu/~shmat/shmat_oak08netflix.pdf)
-: **HW 0 released**{: .label .label-blue }
+: **HW 0 released**{: .label .label-blue }  [HW0 PDF](/resources/hw0.pdf)
 
 Jul 31
 : Privacy Attacks - Membership Inference
