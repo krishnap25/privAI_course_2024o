@@ -55,7 +55,7 @@ We will use [Piazza]() for communication and [Gradescope]() for submitting assig
 
 ## Homework
 
-We will have 4 homeworks total. HW0, released on the first day of class, is meant to be a review (5% of the grade).
+We will have 4 homeworks. HW0, released on the first day of class, is meant to be a review (5% of the grade).
 The other 3 homeworks are worth 10% each.
 
 * [HW0](/resources/hw0.pdf): Released July 29, due August 9th at 11:59 PM.
@@ -74,7 +74,7 @@ The other 3 homeworks are worth 10% each.
 
 You can collaborate with others on the homework, provided: 
 * You acknowledge everybody you worked with in your submission. Similarly, external resources you consulted should also be cited.
-* You write your own solutions and code independently and from scratch. You are required to do this without referring any material from joint discussions including written notes or photos.  In other words, you must internalize any solution/code deeply enough to recreate it fully by yourself before submitting it as your own work.
+* You write your own solutions and code independently and from scratch. You are required to do this without referring any material from joint discussions including written notes or photos.  In other words, you must internalise any solution/code deeply enough to recreate it fully by yourself before submitting it as your own work.
 * Copy-pasting is strictly not allowed.
 
 ## Course Project
@@ -93,7 +93,7 @@ These details will be annouced in the calendar.
 ## Resources
 
 The references and reading (including book chapters and papers) for each lecture will be posted on the [Calendar/Syllabus page](/calendar). 
-This will include parts of of the following monographs/textbooks (PDFs available for free online):
+This will include parts of the following monographs/textbooks (PDFs available for free online):
 * Dwork & Roth (2014). The Algorithmic Foundations of Differential Privacy. [PDF](https://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf)
 * Vadhan (2017). The Complexity of Differential Privacy. [PDF](https://privacytools.seas.harvard.edu/files/complexityprivacy_1.pdf)
 * Near & Abuah (2021). Programming Differential Privacy. [PDF & Notebooks](https://programming-dp.com/)
@@ -111,5 +111,5 @@ While we will follow IITM policies, it is ultimately up to you to conduct yourse
 **Respect diversity**: There is a place in this classroom and at IITM for everyone who is curious and passionate about exploring knowledge.
 Let us all be mindful of creating a welcoming and inclusive space.
 
-As the next generation, you have the power to shape the future:  aim to make the world a better place!
+As the next generation, you have the power to shape the future: aim to make the world a better place!
 
