@@ -67,7 +67,7 @@ The other 3 homeworks are worth 10% each.
 
 You can collaborate with others on the homework, provided: 
 * You acknowledge everybody you worked with in your submission. Similarly, external resources you consulted should also be cited.
-* You write your own solutions and code independently without referring to written notes and other material from joint discussions. In other words, you must internalize the solution/code well enough to reconstruct it fully by yourself.
+* You write your own solutions and code independently and from scratch. You are required to do this without referring any material from joint discussions including written notes or photos.  In other words, you must internalize any solution/code deeply enough to recreate it fully by yourself before submitting it as your own work.
 * Copy-pasting is strictly not allowed.
 
 ## Course Project Details
@@ -83,4 +83,16 @@ The course project can be one of the three types:
 The project will require a proposal (due end of September), a midpoint review (due 3rd week of October), a presentation (week of Nov. 4th), and a final report (due around Nov. 14th).
 These details will be annouced in the calendar.
 
+
+## Honour Code
+
+Here is the [full honour code]().
+
+We fully expect and believe that you will conduct yourself with academic and personal integrity.
+While we will follow IITM policies, it is ultimately up to you to conduct yourself with integrity for several compelling reasons that go beyond this course.
+
+**Respect diversity**: There is a place in this classroom and at IITM for everyone who is curious and passionate about exploring knowledge.
+Let us all be mindful of creating a welcoming and inclusive space.
+
+As the next generation, you have the power to shape the future:  aim to make the world a better place!
 
