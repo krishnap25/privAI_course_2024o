@@ -10,12 +10,19 @@ seo:
 
 # DA 5001 / DA 6400: Privacy in AI 
 
-### Term: Jul-Nov 2024 @ IIT Madras
+### Jul-Nov 2024 @ IIT Madras in _CRC 205_ in Slot J ([weekly schedule](schedule.md))
 
 ### Instructor: [Krishna Pillutla](https://krishnap25.github.io/)
 
-### [Announcements](announcements.md)
+### [Announcements](announcements.md) &nbsp; &nbsp; [Piazza]() &nbsp; &nbsp; [Gradescope]()
 
+Click on the links below for:
+- [Course Description](#course-description)
+- [Grading](#grading)
+- [Homework](#homework)
+- [Course Project](#course-project)
+- [Resources](#resources)
+- [Honour Code](#honour-code)
 
 ## Course Description
 
@@ -30,13 +37,9 @@ emerging challenges of privacy and copyright in LLMs and GenAI, federated learni
 
 See the [course calendar](calendar.md) for up-to-date syllabus.
 
-## [Piazza]() & [Gradescope]()
+### Logistics 
 
-We will use Piazza for communication and Gradescope for submitting assignments, project reports, etc.
-
-## Lectures
-
-Location: **CRC 205**. Classes will be in Slot J ([weekly schedule](schedule.md)).
+We will use [Piazza]() for communication and [Gradescope]() for submitting assignments, project reports, etc.
 
 ## Grading
 
@@ -73,7 +76,7 @@ You can collaborate with others on the homework, provided:
 * You write your own solutions and code independently and from scratch. You are required to do this without referring any material from joint discussions including written notes or photos.  In other words, you must internalize any solution/code deeply enough to recreate it fully by yourself before submitting it as your own work.
 * Copy-pasting is strictly not allowed.
 
-## Course Project Details
+## Course Project
 
 The course will involve a final project to be performed in groups of 2 or 3 (exact details TBD).
 
