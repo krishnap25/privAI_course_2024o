@@ -16,7 +16,8 @@ seo:
 
 ### [Announcements](announcements.md) &nbsp; &nbsp; [Piazza]() &nbsp; &nbsp; [Gradescope]()
 
-Click on the links below for:
+ <br/>
+
 - [Course Description](#course-description)
 - [Grading](#grading)
 - [Homework](#homework)
