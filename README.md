@@ -90,6 +90,13 @@ The course project can be one of the three types:
 The project will require a proposal (due end of September), a midpoint review (due 3rd week of October), a presentation (week of Nov. 4th), and a final report (due around Nov. 14th).
 These details will be annouced in the calendar.
 
+## Scribing
+Please use [this LaTeX template](https://www.overleaf.com/read/kwywgnrszqyg#e466cb) for scribing the lecture notes.
+Scribed notes are due one week from the date of the lecture at 11:59 pm. For example, the scribed notes for
+the lecture on Thursday, August 1st 2024 will be due at 11:59 pm on Thursday, August 8th 2024 via Gradescope.
+
+Each lecture will be handled by a team of two students. Each student will have to be involved in scribing one or two lecture. 
+
 ## Resources
 
 The references and reading (including book chapters and papers) for each lecture will be posted on the [Calendar/Syllabus page](/calendar). 
