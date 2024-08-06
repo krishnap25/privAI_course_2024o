@@ -110,7 +110,7 @@ This will include parts of the following monographs/textbooks (PDFs available fo
 
 ## Honour Code
 
-Here is the [full honour code]().
+Here is the [full honour code](honour_code.md).
 
 We fully expect and believe that you will conduct yourself with academic and personal integrity.
 While we will follow IITM policies, it is ultimately up to you to conduct yourself with integrity for several compelling reasons that go beyond this course.
