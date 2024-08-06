@@ -14,7 +14,7 @@ seo:
 
 ### Instructor: [Krishna Pillutla](https://krishnap25.github.io/)
 
-### [Announcements](announcements.md) &nbsp; &nbsp; [Piazza]() &nbsp; &nbsp; [Gradescope]()
+### [Announcements](announcements.md) &nbsp; &nbsp; [Piazza](https://piazza.com/class/lywkpnfteok1oi) &nbsp; &nbsp; [Gradescope](https://www.gradescope.com/courses/816304)
 
  <br/>
 
@@ -40,7 +40,7 @@ See the [course calendar](calendar.md) for up-to-date syllabus.
 
 ### Logistics 
 
-We will use [Piazza]() for communication and [Gradescope]() for submitting assignments, project reports, etc.
+We will use [Piazza](https://piazza.com/class/lywkpnfteok1oi) for communication and [Gradescope](https://www.gradescope.com/courses/816304) for submitting assignments, project reports, etc.
 
 ## Grading
 
@@ -62,12 +62,12 @@ The other 3 homeworks are worth 10% each.
 
 
 ### Instructions
-- Please submit your solutions via Gradescope.
+- Please submit your solutions via [Gradescope](https://www.gradescope.com/courses/816304).
 - The assignments should be typeset in LaTeX (you may use [this LaTeX template](https://www.overleaf.com/read/rfpgcwqbtdcg#cb8bba)). Please do not submit handwritten notes.
 - For the mathematical problems, please be succinct and justify all the steps. Proofs are required to be fully rigorous and justified.
 - You have a total budget of 3 late days for homeworks (and scribing), no questions asked. A submission a few minutes after the deadline will also count as a full late day. Further delays after exhausting the late day budget will result in a zero grade for that homework.
 - No late days will be allowed for project-related deadlines.
-- For coding assignments, please submit executable Jupyter notebooks together with a PDF export to gradescope.
+- For coding assignments, please submit add the exported PDF to the rest of your solutions and submit to gradescope. Please also separately submit your executable JuPyTer notebook to Gradescope.
   
 
 ### Collaboration Policy
