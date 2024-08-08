@@ -1,11 +1,8 @@
 ---
-layout: home
-title: PrivAI Course (July-Nov 2024)
+layout: page
+title: Honour Code
 nav_exclude: true
-permalink: /:path/
-seo:
-  type: Course
-  name: Privacy in AI
+description: Honour Code of the PrivAI course.
 ---
 
 # Honour Code
