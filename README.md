@@ -92,10 +92,11 @@ These details will be annouced in the calendar.
 
 ## Scribing
 Please use [this LaTeX template](https://www.overleaf.com/read/kwywgnrszqyg#e466cb) for scribing the lecture notes.
-Scribed notes are due one week from the date of the lecture at 11:59 pm. For example, the scribed notes for
+Scribed notes are due one week from the lecture date at 11:59 pm. For example, the scribed notes for
 the lecture on Thursday, August 1st 2024 will be due at 11:59 pm on Thursday, August 8th 2024 via Gradescope.
 
-Each lecture will be handled by a team of two students. Each student will have to be involved in scribing one or two lecture. 
+A team of two students will handle each lecture. Each student will have to help scribe a few lectures.
+Please see the scribing schedule in [this spreadsheet](https://docs.google.com/spreadsheets/d/1wPds8HPx6gZyN17EPNIJCtE8q2hsAUaeSbF0K7xTpZo/edit?usp=sharing).
 
 ## Resources
 
