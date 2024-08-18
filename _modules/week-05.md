@@ -7,11 +7,13 @@ Aug 26
     Per-sample gradient in PyTorch
 
 Aug 28
-: Stochastic gradient descent with DP (DP-SGD)
+: Rényi DP - Subsampling + Composition
+    : Reading - Sec. 6.4 and 6.6 of [Steinke](https://arxiv.org/pdf/2210.00597) 
+        (Sec. 6.5 is optional/advanced)
 
 
 Aug 29
-: Practical considerations of DP-SGD
+: Stochastic gradient descent with DP + Practical considerations
 
 Aug 30
 : **HW 1 due**{: .label .label-red }
