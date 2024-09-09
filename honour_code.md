@@ -33,5 +33,6 @@ Academic violations will be handled by the IITM Senate Discipline and Welfare (D
 Typically, the first violation instance will result in ZERO marks for the corresponding component of the Course Grade and a drop of one penalty in the overall course grade. 
 The second instance of academic dishonesty will result in a ’U’ Course Grade and/or other penalties. The DISCO Committee can also impose additional penalties.
 
-Please take steps to protect your work. Do not share your email/LDAP/Moodle/Piazza/Gradescope passwords with anyone. Do not share your academic drive space on the campus LAN.
+If somebody cheated off your work, ``I did not know about it'' or ``I did know the rules or the honour code'' is not an acceptable defense.
+You are expected to take reasonable steps to protect your work. Do not share your email/LDAP/Moodle/Piazza/Gradescope passwords with anyone. Do not share your academic drive space on the campus LAN.
 
