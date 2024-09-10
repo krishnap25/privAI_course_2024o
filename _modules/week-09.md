@@ -4,13 +4,13 @@ title: Week 9 - Protecting against Data Reconstruction II
 
 
 Sept 23
-: **Lab**{: .label .label-purple } Data Reconstruction Mini-project - part 1
+: No class: work on project proposals
 
 Sept 25
-: **Lab**{: .label .label-purple } Data Reconstruction Mini-project - part 2
+: No class: work on project proposals
 
 Sept 26
-: **Lab**{: .label .label-purple } Data Reconstruction Mini-project - part 3
+: No class: work on project proposals
 
 Sept 27
 : **Project Proposals due**{: .label .label-red }
