@@ -4,7 +4,7 @@ title: Week 8 - Protecting against Data Reconstruction - 1
 
 
 Sept 16
-: Holiday
+: ~~Holiday~~  &nbsp; Project Discussions
 : **Call for Projects Released**{: .label .label-blue }
 
 
