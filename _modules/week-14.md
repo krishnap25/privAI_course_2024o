@@ -10,6 +10,7 @@ Oct 28
 
 Oct 30
 : Unlearning
+    : [Chien et al.](https://arxiv.org/pdf/2401.10371)
 
 Oct 31
 : Holiday
