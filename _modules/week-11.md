@@ -7,9 +7,11 @@ Oct 7
 
 Oct 9
 : Federated Learning & Privacy
+   : Required - [Interactive blog post](https://pair.withgoogle.com/explorables/federated-learning/)
 
 Oct 10
 : Local & Distributed DP
+  : Required - [Kairouz et al.](https://arxiv.org/pdf/2102.06387)
 
 Oct 31
 : **HW 3 due**{: .label .label-red }
