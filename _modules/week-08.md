@@ -1,5 +1,5 @@
 ---
-title: Week 8 - Protecting against Data Reconstruction - 1
+title: Week 8 - Projects & Review
 ---
 
 
@@ -9,7 +9,7 @@ Sept 16
 
 
 Sept 18
-: DP's protections for reconstruction
+: Project Discussions &nbsp; ~~DP's protections for reconstruction~~
 
 Sept 19
-: Reconstruction Protection via Fisher Information
+: Homework Review &nbsp; ~~Reconstruction Protection via Fisher Information~~
