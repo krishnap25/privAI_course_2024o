@@ -10,3 +10,6 @@ Oct 9
 
 Oct 10
 : Local & Distributed DP
+
+Oct 31
+: **HW 3 due**{: .label .label-red }
