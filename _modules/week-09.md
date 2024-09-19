@@ -1,5 +1,5 @@
 ---
-title: Week 9 - Protecting against Data Reconstruction II
+title: Week 9 - No class
 ---
 
 
