@@ -3,7 +3,8 @@ title: Week 12 - Protecting Against Data Reconstruction
 ---
 
 Oct 14
-: Project Office Hours
+: (Online) Guest Lecture by [Ashwinee Panda](https://kiddyboots216.github.io/) on Private In-Context Learning in LLMs
+  : [Paper](https://arxiv.org/pdf/2305.01639)
 
 Oct 16
 : DP's protections for reconstruction
