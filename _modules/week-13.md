@@ -3,8 +3,7 @@ title: Week 13 - Privacy in Generative AI
 ---
 
 Oct 21
-: (Online) Guest Lecture by [Ashwinee Panda](https://kiddyboots216.github.io/) on Private In-Context Learning in LLMs
-  : [Paper](https://arxiv.org/pdf/2305.01639)
+: Project Office Hours
 
 Oct 23
 : Synthetic data generation
