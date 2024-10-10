@@ -3,8 +3,7 @@ title: Week 5 - Learning with DP I
 ---
 
 Aug 26
-: **Lab**{: .label .label-purple }
-    Per-sample gradients in PyTorch
+: **Lab**{: .label .label-purple } Per-sample gradients in PyTorch
     : [Tutorial](https://pytorch.org/tutorials/intermediate/per_sample_grads.html)
 
 Aug 28
