@@ -6,12 +6,13 @@ Oct 21
 : Project Office Hours
 
 Oct 23
-: Synthetic data generation
-  : [Amin et al.](https://arxiv.org/pdf/2407.12108)
-
-Oct 24
 : Copyright Protection in Generative AI
   : [Vyas et al.](https://arxiv.org/pdf/2302.10870)
 
-Oct 25
+Oct 24
+: Synthetic text generation (+ exponential mechanism)
+  : [Amin et al.](https://arxiv.org/pdf/2407.12108)
+    ([Smith's notes](https://dpcourse.github.io/2023-spring/lecnotes-web/DP-S23-notes-lec-06-selection-exp-mech-RNM.pdf) for the exponential mechanim)
+
+Oct 27
 : **Project midpoint report due**{: .label .label-red }
